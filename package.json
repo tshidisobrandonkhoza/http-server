@@ -1,0 +1,20 @@
+{
+  "name": "http-server",
+  "version": "1.0.0",
+  "description": "Node HTTP Module",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node index"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/tshidisobrandonkhoza/http-server.git"
+  },
+  "author": "Tshidiso Brandon Khoza",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/tshidisobrandonkhoza/http-server/issues"
+  },
+  "homepage": "https://github.com/tshidisobrandonkhoza/http-server#readme"
+}
